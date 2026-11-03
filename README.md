@@ -1,5 +1,12 @@
 
 > Open this page at [https://rebinma.github.io/pxt-esp8266-thingspeak/](https://rebinma.github.io/pxt-esp8266-thingspeak/)
+## IOT Lab
+
+iotlab gives you simple, reliable blocks to connect a micro:bit to WiFi and upload sensor readings to ThingSpeak.
+
+Made for the ELECFREAKS IoT kit (ESP8266 on P8/P12), but it works with any ESP8266 running AT firmware wired the same way.
+
+Not affiliated with or endorsed by ELECFREAKS.
 
 ## Use as Extension
 
